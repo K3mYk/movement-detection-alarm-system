@@ -74,7 +74,7 @@ The `Thread`, `Event`, and `Lock` objects from the threading library were used t
 ---
 
 ## Authors:
-- Jakub Sosna ([2gub4]https://github.com/2gub4)) – Python code, hardware
+- Jakub Sosna ([2gub4](https://github.com/2gub4)) – Python code, hardware
 - Kamil Skorupski ([K3mYk](https://github.com/K3mYk)) – Flask server, dashboard, hardware
   
 ---
